@@ -4,7 +4,7 @@ domain: "http://zhangchengyao.github.io/"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zhangchengyao.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
-avatar: https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E7%9A%AE%E5%8D%A1%E4%B8%98&hs=2&pn=3&spn=0&di=154016926910&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&ie=utf-8&oe=utf-8&cl=2&lm=-1&cs=1190115917%2C4001472842&os=3200601500%2C48062961&simid=4223921401%2C595243533&adpicid=0&lpn=0&ln=30&fr=ala&fm=&sme=&cg=&bdtype=0&oriquery=%E7%9A%AE%E5%8D%A1%E4%B8%98&objurl=http%3A%2F%2Fmvimg1.meitudata.com%2F55dbe4cbe446d686.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3B4jtrwt_z%26e3Bv54AzdH3F4j1twAzdH3Fnll88lddd&gsm=0
+avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495726684316&di=343781701b4f949ad4f745ae57e510e9&imgtype=0&src=http%3A%2F%2Fmvimg1.meitudata.com%2F55dbe4cbe446d686.jpg
 about: http://r.photo.store.qq.com/psb?/V128m4zQ2mnDMr/z2hXf7a9UjSty5TQ0YsUwJkchsUjwfGJWL0w0wQ.d5g!/r/dCABAAAAAAAA
 favicon: http://r.photo.store.qq.com/psb?/V128m4zQ2mnDMr/eIpsGARgktYyRCzi*vj9EAsnbFX5kIdXS5BhkmeRKAE!/r/dCABAAAAAAAA
 basecss: 
