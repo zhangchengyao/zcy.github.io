@@ -1,24 +1,24 @@
 # Site configuration
 encoding: utf-8
-domain: "http://zwh14.github.io/"
+domain: "http://zhangchengyao.github.io/"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://zwh14.github.io/" # the base hostname & protocol for your site
+url: "http://zhangchengyao.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: http://r.photo.store.qq.com/psb?/V128m4zQ2mnDMr/eIpsGARgktYyRCzi*vj9EAsnbFX5kIdXS5BhkmeRKAE!/r/dCABAAAAAAAA
 about: http://r.photo.store.qq.com/psb?/V128m4zQ2mnDMr/z2hXf7a9UjSty5TQ0YsUwJkchsUjwfGJWL0w0wQ.d5g!/r/dCABAAAAAAAA
 favicon: http://r.photo.store.qq.com/psb?/V128m4zQ2mnDMr/eIpsGARgktYyRCzi*vj9EAsnbFX5kIdXS5BhkmeRKAE!/r/dCABAAAAAAAA
 basecss: 
 # Theme specific configuration
-title: zwh
+title: zcy
 description: >
-  Hi there, My name is wenhao Zheng, usually I use "zwh14" as my ID everywhere.
+  Hi there, My name is chengyao Zhang, usually I use "zcy14" as my ID everywhere.
   I was born and raised in Jiangsu China.
 
 # Contact and social media links
-twitter_username: zwh_QHKC
-github_username: zwh14
-facebook_username: ZwhQHKC
-instagram_username: 532747028@qq.com
+twitter_username: zhangchengyao
+github_username: zhangchengyao
+facebook_username: zhangchengyao
+instagram_username: 2062152567@qq.com
 linkedin_username: none
 
 exclude: ['node_modules', 'gulpfile.js', 'package.json']
