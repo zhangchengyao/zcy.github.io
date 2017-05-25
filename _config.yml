@@ -1,11 +1,11 @@
 # Site settings
-name: Less Or More
-email: luoyan35714@126.com
-author: Freud Kang
-url: http://www.hifreud.com
-resume_site: http://www.hifreud.com/Resume.io/
-github: https://github.com/luoyan35714/
-baseurl: "/LessOrMore"
+name: My Blog
+email: 141250198@smail.nju.edu.cn
+author: Zhang Chengyao
+url: https://zhangchengyao.github.io/
+resume_site: https://zhangchengyao.github.io/
+github: https://github.com/zhangchengyao
+baseurl: ""
 description: Actually, less is more!
 meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
 motto: It's our wits that make us men.
@@ -17,7 +17,7 @@ paginate: 10
 
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
-github_username: luoyan35714
+github_username: zhangchengyao
 highlighter: Pygments
 
 # Build settings
@@ -27,11 +27,11 @@ baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
 FB:
   comments :
-    provider : duoshuo
-    duoshuo:
-        short_name : luoyan35714
-    disqus :
-        short_name : freudkang
+    # provider : duoshuo
+    # duoshuo:
+    #     short_name : zhangchengyao
+    # disqus :
+    #     short_name : freudkang
     # facebook :
     #   appid : 123
     #   num_posts: 5
