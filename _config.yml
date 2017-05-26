@@ -5,8 +5,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://zhangchengyao.github.io/" # the base hostname & protocol for your site
 permalink: /:title/
 avatar: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495726684316&di=343781701b4f949ad4f745ae57e510e9&imgtype=0&src=http%3A%2F%2Fmvimg1.meitudata.com%2F55dbe4cbe446d686.jpg
-about: http://r.photo.store.qq.com/psb?/V128m4zQ2mnDMr/z2hXf7a9UjSty5TQ0YsUwJkchsUjwfGJWL0w0wQ.d5g!/r/dCABAAAAAAAA
-favicon: http://r.photo.store.qq.com/psb?/V128m4zQ2mnDMr/eIpsGARgktYyRCzi*vj9EAsnbFX5kIdXS5BhkmeRKAE!/r/dCABAAAAAAAA
+about: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495793503306&di=fcfb81838cef79f541e72f3698d52df6&imgtype=0&src=http%3A%2F%2Fp3.gexing.com%2Fshaitu%2F20130221%2F2341%2F5126403a91bdd_600x.jpg
+favicon: https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1495726684316&di=343781701b4f949ad4f745ae57e510e9&imgtype=0&src=http%3A%2F%2Fmvimg1.meitudata.com%2F55dbe4cbe446d686.jpg
 basecss: 
 # Theme specific configuration
 title: zcy
